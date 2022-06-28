@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537866523453",
+    "firebase_url": "https://joubknea-9b33f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "joubknea-9b33f",
+    "storage_bucket": "joubknea-9b33f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537866523453:android:0b8096729658129f9f6b54",
+        "android_client_info": {
+          "package_name": "com.appscro.joubknea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537866523453-1r4moun94g0h324np2hed6kjkqsn62en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appscro.joubknea",
+            "certificate_hash": "a23e58353873da27a48323e6cac45e6ba2206e1d"
+          }
+        },
+        {
+          "client_id": "537866523453-2mgmvv94137fo4452lmmhietdc7kbd4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOzdmRbL2trbbigEquk_TaLfvUUjGHris"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537866523453-2mgmvv94137fo4452lmmhietdc7kbd4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
