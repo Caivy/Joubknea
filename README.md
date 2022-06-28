@@ -1,10 +1,8 @@
-# Tinder App Flutter
+# Joubknea
 ![HeaderImage](github_images/header.jpeg) 
 
 ## Introduction
-This is a demo application built with the goal to learn about Flutter and to create a fun application.
-
-Tested on Android only.
+Finding friends is easy, finding the one is worth the wait.
 
 ## Technologies & Architecture
 Flutter, Dart
